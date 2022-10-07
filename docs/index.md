@@ -1,9 +1,9 @@
 ---
-layout: default
 title: UI Components
 nav_order: 2
 has_children: true
 ---
 
-# index in doc
+# UI Components
+
 this is a parent doc
