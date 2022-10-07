@@ -1,6 +1,6 @@
 ---
-nav_order:2
 parent: MainDirrectory
+nav_order:2
 ---
 
 # Second child
