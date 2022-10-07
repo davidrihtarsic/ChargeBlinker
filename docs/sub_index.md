@@ -1,5 +1,5 @@
 ---
-parent: UI Components
+parent: MainDirrectory
 nav_order: 2
 ---
 

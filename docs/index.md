@@ -1,9 +1,8 @@
 ---
-title: UI Components
 nav_order: 2
 has_children: true
 ---
 
-# UI Components
+# MainDirrectory
 
 this is a parent doc
