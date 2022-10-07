@@ -1,5 +1,6 @@
 ---
 parent: Assemble
+title: 74HC14
 ---
 # SCHMITT TRIGGER INVERTER
 
