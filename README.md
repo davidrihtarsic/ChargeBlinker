@@ -1,8 +1,3 @@
----
-nav_order: 3
-has_children: true
----
-
 # ChargeBlinker
 
 "Charge Blinker" device is suitable for laboratory work on topics related to electric current and resistance, as it allows the visualization of electric current. 
