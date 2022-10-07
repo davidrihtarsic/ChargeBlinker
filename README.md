@@ -1,5 +1,6 @@
 ---
-nav_order: 100
+nav_order: 3
+has_children: true
 ---
 
 # ChargeBlinker
