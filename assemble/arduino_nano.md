@@ -1,5 +1,5 @@
 ---
-parent: Assamble
+parent: Assemble
 title: Arduino nano
 ---
 
