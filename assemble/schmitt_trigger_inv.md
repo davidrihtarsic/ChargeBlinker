@@ -1,3 +1,6 @@
+---
+parent: Assemble
+---
 # SCHMITT TRIGGER INVERTER
 
 ![Schematics](./images/schm_trg_inv_scematics.png)
