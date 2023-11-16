@@ -32,4 +32,3 @@ void discharge_cycle(){
   digitalWrite(PIN_R, 0);
   while (int C_ADC=analogRead(PIN_C) > LO_TRSH ){}
 }
-
