@@ -45,8 +45,8 @@ void setup() {
 }
 
 void charge_cycle(){
-  digitalWrite(LED_1, 1);
   digitalWrite(LED_2, 0);
+  digitalWrite(LED_1, 1);
   digitalWrite(PIN_R, 1);
   while (int C_ADC=analogRead(PIN_C) < HI_TRSH){}
 }
